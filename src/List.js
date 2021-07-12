@@ -5,7 +5,6 @@ const List = ({ people }) => {
   const deletePerson = (id) => {
     let updatedUsers = users.filter((user) => user.id !== id);
     setUsers(updatedUsers);
-    console.log(users);
   };
   return (
     <>
