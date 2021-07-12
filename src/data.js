@@ -9,7 +9,7 @@ export default [
     id: 2,
     name: 'Hostle Pit',
     age: 7,
-    image: 'https://source.unsplash.com/user/zacler/504x508',
+    image: 'https://source.unsplash.com/user/zacler/604x508',
   },
   {
     id: 3,
